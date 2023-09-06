@@ -13,7 +13,7 @@ This repository includes programs used for analyzing structures obtained from Mo
 
 ****dist_SCF:*** Calculates the distribution of the SCF from an MC simulation. Instructions for use are available within the program. 
 
-****distance_mass.py:*** Determines the distance between the centers of masses of monomers directly from an MC simulation. Instructions for use are detailed in the program.
+****distance_com.py:*** Determines the distance between the centers of masses of monomers directly from an MC simulation. Instructions for use are detailed in the program.
 
 
 
