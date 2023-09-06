@@ -3,7 +3,7 @@ Analysis on Monte Carlo simulations
 
 paper: *Tirri, Bernardino, et al. "A combined Monte Carlo/DFT approach to simulate UV‐vis spectra of molecules and aggregates: Merocyanine dyes as a case study." Journal of Computational Chemistry 42.15 (2021): 1054-1063.*
 
-This repository includes programs used for analyzing structures obtained from Monte Carlo simulations (LAMMS software).
+This repository includes programs used for extracting molecular properties and analyzing structures obtained from Monte Carlo simulations (LAMMS software).
 
 ****average_MC_structure.py***: Generates the average structure of an MC simulation. Instructions for use are provided within the program.
 
